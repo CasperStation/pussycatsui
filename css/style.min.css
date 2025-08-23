@@ -1175,10 +1175,10 @@ body {
   width: 45%;
 }
 .item-tokenomics:nth-child(2) .item-tokenomics__decor::before {
-  background-image: url(../images/sui.webp);
+  background-image: url(../images/3d.png);
 }
 .item-tokenomics:nth-child(2) .item-tokenomics__decor::after {
-  background-image: url(../images/sui.webp);
+  background-image: url(../images/3d.png);
 }
 .item-tokenomics__body {
   position: relative;
@@ -1204,7 +1204,7 @@ body {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background-image: url(../images/sui.webp);
+  background-image: url(../images/3d.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -1220,7 +1220,7 @@ body {
   -webkit-transform: translate(-50%, -50%) scale(0.8);
   transform: translate(-50%, -50%) scale(0.8);
   border-radius: 50%;
-  background-image: url(../images/sui.webp);
+  background-image: url(../images/3d.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
